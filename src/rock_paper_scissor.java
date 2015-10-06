@@ -1,7 +1,6 @@
 
 //Son Ngo
 
-import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -12,7 +11,6 @@ public class rock_paper_scissor
 
 	public static void main(String[] args)
 	{
-		Scanner input = new Scanner(System.in);
 		Random randomizer = new Random();
 
 		//choice list
