@@ -48,3 +48,5 @@ public class rock_paper_scissor
 		} while (reply == JOptionPane.YES_OPTION);
 	}
 }
+
+//Good and compact
